@@ -1,0 +1,14 @@
+C:\Users\Yash\source\repos\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.deps.json
+C:\Users\Yash\source\repos\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.runtimeconfig.json
+C:\Users\Yash\source\repos\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.dll
+C:\Users\Yash\source\repos\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.pdb
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.AssemblyReference.cache
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfo.cs
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.dll
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\refint\BookStore.models.dll
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.pdb
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.genruntimeconfig.cache
+C:\Users\Yash\source\repos\BookStore\BookStore.models\obj\Debug\net6.0\ref\BookStore.models.dll
